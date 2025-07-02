@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/rednvr_v1.0.png" alt="RedNVR Screenshot" width="600"/>
+  <img src="assets/rednvr_v1.0.png" alt="RedNVR Screenshot" width="300"/>
 </p>
 
 
