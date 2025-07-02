@@ -1,4 +1,7 @@
-# RedNVR
+<p align="center">
+  <img src="assets/rednvr_v1.0.png" alt="RedNVR Screenshot" width="600"/>
+</p>
+
 
 RedNVR is a modern, user-friendly Network Video Recorder (NVR) application built with PyQt5. It offers a beautiful dark-themed interface, seamless camera management, and effortless video recording for your security needs.
 
@@ -51,9 +54,3 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 
 ## License
 See the LICENSE file for license information.
-
----
-
-<p align="center">
-  <img src="assets/rednvr_v1.0.png" alt="RedNVR Screenshot" width="600"/>
-</p>
