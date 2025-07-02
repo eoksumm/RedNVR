@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Logs and runtime
+logs/
+recordings/
+*.log
+
+# VSCode/IDE
+.vscode/
+.idea/
