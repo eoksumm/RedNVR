@@ -26,17 +26,6 @@ Start RedNVR with:
    python main.py
    ```
 
-## Build Standalone EXE
-To create a single-file Windows executable using PyInstaller:
-```powershell
-pyinstaller --noconfirm --onefile --windowed --icon=assets/icons/rednvr.ico --name rednvr main.py
-```
-The output will be at `dist/rednvr.exe`.
-
-> **Note:**
-> - Place the `assets/`, `config/`, and other required folders next to the EXE for full functionality.
-> - `logs/` and `recordings/` folders are created automatically at runtime.
-
 ## Folder Structure
 ```
 assets/           # Icons and images
