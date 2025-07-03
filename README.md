@@ -40,6 +40,3 @@ requirements.txt  # Python dependencies
 
 ## Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests to improve RedNVR.
-
-## License
-See the LICENSE file for license information.
